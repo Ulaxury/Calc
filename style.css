@@ -1,0 +1,56 @@
+.mybody{
+  -webkit-user-select: none;
+  border-radius: 2%;
+  display: inline-block;
+  box-sizing: content-box;
+  margin: 10px;
+}
+.black{
+  background: black;
+}
+.button{
+  height: 40px;
+  width: 40px;
+  border-radius: 15%;
+}
+
+.white{
+  background: #cccccc;
+}
+
+.white:active{
+  background: whitesmoke;
+
+}
+
+.pushedOrange{
+  background: whitesmoke;
+  color: #ff9821;
+}
+
+.orange{
+  background: #ff9821;
+  color: whitesmoke;
+}
+
+.orange:active{
+  background: #ffd992;
+}
+
+.gray{
+  background: #555555;
+  color: whitesmoke;
+}
+
+.gray:active{
+  background: #888888;
+}
+
+.dark{
+  background: #222222;
+  color: whitesmoke;
+}
+
+.dark:active{
+  background: #555555;
+}
