@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f5263a6-6fc1-4b46-a78d-d9a6c349128c" name="Default" comment="" />
+    <list default="true" id="7f5263a6-6fc1-4b46-a78d-d9a6c349128c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,25 +20,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectId" id="1ZOWMG4eudPalxnZVkGfsLVml0Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Node.js.script.js">
-    <configuration name="calc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/calc/calc.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/calc/index.html">
       <method v="2" />
     </configuration>
     <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$">
@@ -44,20 +54,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.calc.html" />
       <item itemvalue="Node.js.main.js" />
       <item itemvalue="Node.js.script.js" />
+      <item itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.calc.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.script.js" />
         <item itemvalue="Node.js.main.js" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,24 +84,42 @@
       <workItem from="1584462205250" duration="32000" />
       <workItem from="1584709868776" duration="601000" />
       <workItem from="1584710578682" duration="11328000" />
+      <workItem from="1584790974934" duration="1095000" />
+      <workItem from="1584813067738" duration="250000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="365" y="23" key="CommitChangelistDialog2" timestamp="1584792316045">
+      <screen x="0" y="23" width="1440" height="781" />
+    </state>
+    <state x="365" y="23" key="CommitChangelistDialog2/0.23.1440.781@0.23.1440.781" timestamp="1584792316045" />
+    <state x="229" y="52" key="SettingsEditor" timestamp="1584792767783">
+      <screen x="0" y="23" width="1440" height="781" />
+    </state>
+    <state x="229" y="52" key="SettingsEditor/0.23.1440.781@0.23.1440.781" timestamp="1584792767783" />
     <state x="120" y="143" width="1200" height="541" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584790308744">
       <screen x="0" y="23" width="1440" height="781" />
     </state>
     <state x="120" y="143" width="1200" height="541" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.781@0.23.1440.781" timestamp="1584790308744" />
-    <state x="558" y="211" key="svn.repositoryBrowser" timestamp="1584791068192">
+    <state x="120" y="143" width="1200" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584792768050">
       <screen x="0" y="23" width="1440" height="781" />
     </state>
-    <state x="558" y="211" key="svn.repositoryBrowser/0.23.1440.781@0.23.1440.781" timestamp="1584791068192" />
-    <state x="558" y="195" key="svn4idea.import.options" timestamp="1584791061974">
+    <state x="120" y="143" width="1200" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.781@0.23.1440.781" timestamp="1584792768050" />
+    <state x="558" y="211" key="svn.repositoryBrowser" timestamp="1584792820095">
       <screen x="0" y="23" width="1440" height="781" />
     </state>
-    <state x="558" y="195" key="svn4idea.import.options/0.23.1440.781@0.23.1440.781" timestamp="1584791061974" />
+    <state x="558" y="211" key="svn.repositoryBrowser/0.23.1440.781@0.23.1440.781" timestamp="1584792820095" />
+    <state x="558" y="195" key="svn4idea.import.options" timestamp="1584792816660">
+      <screen x="0" y="23" width="1440" height="781" />
+    </state>
+    <state x="558" y="195" key="svn4idea.import.options/0.23.1440.781@0.23.1440.781" timestamp="1584792816660" />
   </component>
 </project>
