@@ -332,6 +332,8 @@ percent.addEventListener('click', function () {
     case "-":
       res = (+res)/100*first_digit;
   }
+  FirstColor();
+
   pushRes(res);
 
 });
